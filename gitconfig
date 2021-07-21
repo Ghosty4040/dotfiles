@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = edu.faks@gmail.com
+	name = eduardo fakiani
